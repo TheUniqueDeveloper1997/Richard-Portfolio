@@ -8,5 +8,5 @@ this amazing are:
 • Designed and implemented functional sanity backend to manage content.    
 • Designed and implemented Navigation throughout portfolio with higher order components.  
 
-
+Take a look at this beautiful portfolio and connect with me!
 https://richardzhouportfolio.netlify.app/
