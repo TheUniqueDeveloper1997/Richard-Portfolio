@@ -4,9 +4,9 @@ order components as navigation along with fading animations to really have pop o
 the project. The backend is has it's separate repository as during the time of it's deployment, it was crated as a subdomain by accident. The technoligies used to develop
 this amazing are:
 
-• Designed and implemented SCSS styling
-• Designed and implemented functional sanity backend to manage content
-• Designed and implemented using react
+• Designed and implemented SCSS styling   
+• Designed and implemented functional sanity backend to manage content    
+• Designed and implemented using react    
 
 
 https://richardzhouportfolio.netlify.app/
