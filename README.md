@@ -6,7 +6,7 @@ this amazing are:
 
 • Designed and implemented SCSS styling.   
 • Designed and implemented functional sanity backend to manage content.    
-• Designed and implemented Navigation with higher order components.  
+• Designed and implemented Navigation throughout portfolio with higher order components.  
 
 
 https://richardzhouportfolio.netlify.app/
